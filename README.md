@@ -4,7 +4,7 @@
 - 输入 payoff matrix
 - 自动找 Pure Nash / Mixed Nash（小规模支持集枚举）
 - IESDS 一步步删策略动画
-- 学生风解释按钮（通俗讲解）
+- 通俗讲解按钮
 
 ## 本地打开
 直接打开 `index.html` 即可。
